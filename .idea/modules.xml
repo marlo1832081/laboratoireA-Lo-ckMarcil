@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ex1_salutation/ex1.Salutation.iml" filepath="$PROJECT_DIR$/ex1_salutation/ex1.Salutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex2.convertisseur/ex2.Convertisseur.iml" filepath="$PROJECT_DIR$/ex2.convertisseur/ex2.Convertisseur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex3.convertisseur2/ex3.Convertisseur2.iml" filepath="$PROJECT_DIR$/ex3.convertisseur2/ex3.Convertisseur2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex4.Pythagore/ex4.Pythagore.iml" filepath="$PROJECT_DIR$/ex4.Pythagore/ex4.Pythagore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex5.Vecteur/ex5.Vecteur.iml" filepath="$PROJECT_DIR$/ex5.Vecteur/ex5.Vecteur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exExpert1.Résolution/exExpert1.Résolution.iml" filepath="$PROJECT_DIR$/exExpert1.Résolution/exExpert1.Résolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exstand1.geometrie/exstand1.Geometrie.iml" filepath="$PROJECT_DIR$/exstand1.geometrie/exstand1.Geometrie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exstand2.BoiteNoire/exstand2.BoiteNoire.iml" filepath="$PROJECT_DIR$/exstand2.BoiteNoire/exstand2.BoiteNoire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labA.iml" filepath="$PROJECT_DIR$/labA.iml" />
+    </modules>
+  </component>
+</project>
